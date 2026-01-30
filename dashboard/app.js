@@ -25,7 +25,7 @@ function initScene() {
     
     // Camera
     camera = new THREE.PerspectiveCamera(
-        50,
+        20,
         container.clientWidth / container.clientHeight,
         0.1,
         1000
